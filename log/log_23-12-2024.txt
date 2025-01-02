@@ -1,8 +1,0 @@
-[23/12/2024 10:17:38] app.py | App running.
-[23/12/2024 10:17:43] app.py | App running.
-[23/12/2024 10:18:01] app.py | App running.
-[23/12/2024 10:18:16] app.py | App running.
-[23/12/2024 10:19:03] app.py | App running.
-[23/12/2024 10:19:13] app.py | App running.
-[23/12/2024 10:19:20] app.py | App running.
-[23/12/2024 10:50:46] app.py | App running.

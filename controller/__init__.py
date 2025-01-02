@@ -1,9 +1,9 @@
-# from controller import auth_controller as auth
-# from controller import booking_controller as booking 
-# from controller import maintenance_controller as maintenance
-# from controller import outlet_controller as outlet
-# from controller import payment_controller as payment
-# from controller import report_controller as report
-# from controller import room_controller as room 
-# from controller import transaction_controller as transaction
-# from controller import user_controller as user
+from controller.room_controller import rooms
+from controller.auth_controller import auth
+from controller.outlet_controller import outlets
+from controller.payment_controller import payments
+from controller.user_controller import users
+from controller.booking_controller import bookings
+from controller.report_controller import report
+from controller.maintenance_controller import maintenance
+from controller.transaction_controller import transactions
